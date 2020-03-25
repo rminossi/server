@@ -6,7 +6,7 @@
             "assets/images/dog1.png",
             "assets/images/dog1.png"
          ],
-         "id": 1,
+         "id":1,
          "name":"Adão",
          "race":"Jack Russel",
          "age":4,
@@ -23,7 +23,7 @@
             "assets/images/dog2.png",
             "assets/images/dog2.png"
          ],
-         "id": 2,
+         "id":2,
          "name":"Pomo",
          "race":"Labrador",
          "age":3,
@@ -40,7 +40,7 @@
             "assets/images/dog3.png",
             "assets/images/dog3.png"
          ],
-         "id": 3,
+         "id":3,
          "name":"Bob",
          "race":"Pub",
          "age":1,
@@ -57,7 +57,7 @@
             "assets/images/dog4.png",
             "assets/images/dog4.png"
          ],
-         "id": 4,
+         "id":4,
          "name":"Mascocte",
          "race":"Rottweiler",
          "age":10,
@@ -74,7 +74,7 @@
             "assets/images/dog5.png",
             "assets/images/dog5.png"
          ],
-         "id": 5,
+         "id":5,
          "name":"Kiko",
          "race":"Pastor",
          "age":3,
@@ -85,5 +85,5 @@
          "profile":"Ativo, Brincalhão, Obediente, Adestrado",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
       }
-   ],
+   ]
 }
