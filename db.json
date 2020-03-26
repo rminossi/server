@@ -11,8 +11,8 @@
          "race":"Jack Russel",
          "age":4,
          "weight":5,
-         "height":0.80,
-         "lenght":0.30,
+         "height":0.8,
+         "lenght":0.3,
          "health":"Saudável",
          "profile":"Calmo, introvertido",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
@@ -28,8 +28,8 @@
          "race":"Labrador",
          "age":3,
          "weight":15,
-         "height":1.20,
-         "lenght":0.70,
+         "height":1.2,
+         "lenght":0.7,
          "health":"Saudável",
          "profile":"Ativo, Brincalhão, Obediente, Adestrado",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
@@ -45,8 +45,8 @@
          "race":"Pub",
          "age":1,
          "weight":8,
-         "height":0.60,
-         "lenght":0.30,
+         "height":0.6,
+         "lenght":0.3,
          "health":"Saudável",
          "profile":"Ativo, Brincalhão, Desobediente",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
@@ -62,8 +62,8 @@
          "race":"Rottweiler",
          "age":10,
          "weight":32,
-         "height":1.70,
-         "lenght":0.90,
+         "height":1.7,
+         "lenght":0.9,
          "health":"Saudável",
          "profile":"Ativo, Brincalhão, Obediente, Adestrado",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
@@ -79,8 +79,8 @@
          "race":"Pastor",
          "age":3,
          "weight":15,
-         "height":1.20,
-         "lenght":0.70,
+         "height":1.2,
+         "lenght":0.7,
          "health":"Saudável",
          "profile":"Ativo, Brincalhão, Obediente, Adestrado",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
@@ -96,8 +96,95 @@
          "race":"Pastor",
          "age":3,
          "weight":15,
-         "height":1.20,
-         "lenght":0.70,
+         "height":1.2,
+         "lenght":0.7,
+         "health":"Saudável",
+         "profile":"Ativo, Brincalhão, Obediente, Adestrado",
+         "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
+      }
+   ],
+   "friends":[
+      {
+         "photos":[
+            "https://static1.patasdacasa.com.br/articles/0/72/0/@/2954-jack-russell-terrier-conheca-mais-sobre-article_media_mobile-5.jpg",
+            "https://vetsmart-parsefiles.s3.amazonaws.com/9f29db4e5cfef007b9242e025e9fee46_breed.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jack_Russell_Terrier_1.jpg/1200px-Jack_Russell_Terrier_1.jpg"
+         ],
+         "id":1,
+         "name":"Joe",
+         "race":"Jack Russel",
+         "age":4,
+         "weight":5,
+         "height":0.8,
+         "lenght":0.3,
+         "health":"Saudável",
+         "profile":"Calmo, introvertido",
+         "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
+      },
+      {
+         "photos":[
+            "https://www.petlove.com.br/dicas/wp-content/uploads/2019/11/GettyImages-654812442-1280x720.jpg",
+            "https://i0.statig.com.br/bancodeimagens/d7/9n/ed/d79nedn635ljnzxfib5zw91ct.jpg",
+            "https://uploads.metropoles.com/wp-content/uploads/2020/03/05102915/lad.jpg"
+         ],
+         "id":2,
+         "name":"Lontre",
+         "race":"Labrador",
+         "age":3,
+         "weight":15,
+         "height":1.2,
+         "lenght":0.7,
+         "health":"Saudável",
+         "profile":"Ativo, Brincalhão, Obediente, Adestrado",
+         "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
+      },
+      {
+         "photos":[
+            "https://aulifepet.com.br/wp-content/uploads/2018/08/Foto-84-1200x800.jpg",
+            "https://www.soscaopanheiros.com.br/blog/wp-content/uploads/2019/09/Pug.jpg",
+            "https://www.greenme.com.br/wp-content/uploads/2017/06/pug-1200x800.jpg"
+         ],
+         "id":3,
+         "name":"Pool",
+         "race":"Pub",
+         "age":1,
+         "weight":8,
+         "height":0.6,
+         "lenght":0.3,
+         "health":"Saudável",
+         "profile":"Ativo, Brincalhão, Desobediente",
+         "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
+      },
+      {
+         "photos":[
+            "https://www.petlove.com.br/images/breeds/193099/profile/original/rottweiler-p.jpg?1532539428",
+            "https://www.petlove.com.br/dicas/wp-content/uploads/2018/05/rottweiler-grama-1280x720.jpg",
+            "https://www.clubeparacachorros.com.br/wp-content/uploads/2018/06/personalidade-comportamento-rottweiler.jpg"
+         ],
+         "id":4,
+         "name":"Rex",
+         "race":"Rottweiler",
+         "age":10,
+         "weight":32,
+         "height":1.7,
+         "lenght":0.9,
+         "health":"Saudável",
+         "profile":"Ativo, Brincalhão, Obediente, Adestrado",
+         "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
+      },
+      {
+         "photos":[
+            "https://statig1.akamaized.net/bancodeimagens/bm/s7/6b/bms76blg2zaea6p7625cszwjp.jpg",
+            "https://image.cachorrogato.com.br/textimages/ieska/c%C3%A3o-de-pastoreio.jpg",
+            "https://t2.ea.ltmcdn.com/pt/images/9/9/9/img_top_10_de_caes_pastores_20999_paso_0_600.jpg"
+         ],
+         "id":5,
+         "name":"Pilo",
+         "race":"Pastor",
+         "age":3,
+         "weight":15,
+         "height":1.2,
+         "lenght":0.7,
          "health":"Saudável",
          "profile":"Ativo, Brincalhão, Obediente, Adestrado",
          "obs":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum lacus eget ex tristique feugiat. Maecenas cursus est ultrices pharetra rutrum. Nulla facilisi. Morbi sit amet diam euismod, fermentum mi in, feugiat arcu. Vestibulum vel augue nec felis vehicula hendrerit. Aliquam tincidunt, ipsum eget viverra congue, erat quam ullamcorper nunc, a pellentesque mi lectus ac magna. Quisque efficitur tincidunt congue."
